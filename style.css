@@ -1,0 +1,142 @@
+.heart{
+    background-color: rgb(234, 113, 186);
+    width: 60%;
+    height: 48vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 150px;
+    color: white;
+}
+.about-us{
+    display: flex;
+    background-color: rgb(72, 177, 177);
+    width: 60%;
+    height: 48vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 30px;
+}
+#para-1{
+    margin-bottom: 40px; 
+}
+.navbar{
+    margin-top: 30px;
+    color:rgb(72, 177, 177) ;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 40px;
+    display: flex;
+    justify-content: end;
+}
+#show-all{
+    color: red;
+}
+.gallery{
+    width: 60%;
+    height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap: 18px;
+}
+.gallery-item{
+    border-radius: 10px;
+    background-position: center;
+    background-size: cover;
+}
+#pic-1{
+    background-image: url(tn-img-01.jpg);
+}
+#pic-2{
+    background-image: url(img-02.jpg);
+   
+}
+#pic-3{
+    background-image: url(tn-img-03.jpg);
+}
+#pic-4{
+    background-image: url(tn-img-04.jpg);
+}
+#pic-5{
+    background-image: url(tn-img-05.jpg);
+}
+#pic-6{
+    background-image: url(tn-img-06.jpg);
+}
+#pic-7{
+    background-image: url(tn-img-07.jpg);
+}
+#pic-8{
+    background-image: url(tn-img-08.jpg);
+}
+#pic-9{
+    background-image: url(tn-img-09.jpg);
+}
+#pic-10{
+    background-image: url(tn-img-10.jpg);
+}
+#pic-11{
+    background-image: url(tn-img-11.jpg);
+}
+#pic-12{
+    background-image: url(tn-img-12.jpg);
+}
+.contact{
+    display: flex;
+    background-color: rgb(165, 233, 233);
+    width: 60%;
+    height: 48vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    border-radius: 15px;
+    color: white;
+    justify-content: center;
+   padding-top: 60px;
+    gap: 200px;
+}
+.contact-2{
+    margin-left: 20px;
+}
+.contact-3{
+    display: flex;
+ align-items: center;
+}
+#hr-1{
+    width: 400%;
+    border-top: 2px solid white;
+    margin-bottom: 10px;
+}
+.name{
+    margin-bottom: 10px;
+}
+.email{
+    margin-bottom: 10px;
+}
+.message{
+    margin-bottom: 100px;
+}
+.send{
+    width: 400%;
+    text-align: end;
+}
+.final-para1{
+    margin-bottom: 70px;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+    color: grey;
+}
